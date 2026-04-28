@@ -147,51 +147,47 @@ Aşağıdaki görseller AHA mobil uygulamasına ait ekran görüntüleridir.
 
 ### 1. Ana Sayfa
 
-<img src="screenshots/1.png" width="260">
+<img src="screenshots/1.jpeg" width="260">
 
 ### 2. Afet Çantası Kontrol Ekranı
 
-<img src="screenshots/2.png" width="260">
+<img src="screenshots/2.jpeg" width="260">
 
 ### 3. Afet Çantası Analiz Sonucu
 
-<img src="screenshots/3.png" width="260">
+<img src="screenshots/3.jpeg" width="260">
 
 ### 4. Ev İçi Deprem Hazırlık Kontrol Listesi
 
-<img src="screenshots/4.png" width="260">
+<img src="screenshots/4.jpeg" width="260">
 
 ### 5. Ev Hazırlık Skoru
 
-<img src="screenshots/5.png" width="260">
+<img src="screenshots/5.jpeg" width="260">
 
 ### 6. Duvar ve Yapı Görsel Risk Analizi
 
-<img src="screenshots/6.png" width="260">
+<img src="screenshots/6.jpeg" width="260">
 
 ### 7. Görsel Risk Analiz Raporu
 
-<img src="screenshots/7.png" width="260">
+<img src="screenshots/7.jpeg" width="260">
 
 ### 8. Kişisel Ev Bilgileri
 
-<img src="screenshots/8.png" width="260">
+<img src="screenshots/8.jpeg" width="260">
 
 ### 9. Acil Durum Modu
 
-<img src="screenshots/9.png" width="260">
+<img src="screenshots/9.jpeg" width="260">
 
 ### 10. Afet Haritası
 
-<img src="screenshots/10.png" width="260">
+<img src="screenshots/10.jpeg" width="260">
 
 ### 11. Çevrimdışı Afet Rehberi
 
-<img src="screenshots/11.png" width="260">
-![Çevrimdışı Afet Rehberi](screenshots/11.jpeg)
-
----
-
+<img src="screenshots/11.jpeg" width="260">
 ## Kullanılan Teknolojiler
 
 - Kotlin
