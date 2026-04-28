@@ -143,50 +143,51 @@ Harita üzerinde gösterilebilecek yol durumları:
 
 ## Ekran Görüntüleri
 
-Aşağıdaki görseller proje klasöründeki ekran görüntüleriyle değiştirilebilir. Görsellerin `screenshots` klasörü altında `1.png`, `2.png`, `3.png` şeklinde isimlendirilmesi önerilir.
+Aşağıdaki görseller AHA mobil uygulamasına ait ekran görüntüleridir.
 
 ### 1. Ana Sayfa
 
-![Ana Sayfa](screenshots/1.jpeg)
+<img src="screenshots/1.png" width="260">
 
 ### 2. Afet Çantası Kontrol Ekranı
 
-![Afet Çantası Kontrol Ekranı](screenshots/2.jpeg)
+<img src="screenshots/2.png" width="260">
 
 ### 3. Afet Çantası Analiz Sonucu
 
-![Afet Çantası Analiz Sonucu](screenshots/3.jpeg)
+<img src="screenshots/3.png" width="260">
 
 ### 4. Ev İçi Deprem Hazırlık Kontrol Listesi
 
-![Ev İçi Deprem Hazırlık Kontrol Listesi](screenshots/4.jpeg)
+<img src="screenshots/4.png" width="260">
 
 ### 5. Ev Hazırlık Skoru
 
-![Ev Hazırlık Skoru](screenshots/5.jpeg)
+<img src="screenshots/5.png" width="260">
 
 ### 6. Duvar ve Yapı Görsel Risk Analizi
 
-![Duvar ve Yapı Görsel Risk Analizi](screenshots/6.jpeg)
+<img src="screenshots/6.png" width="260">
 
 ### 7. Görsel Risk Analiz Raporu
 
-![Görsel Risk Analiz Raporu](screenshots/7.jpeg)
+<img src="screenshots/7.png" width="260">
 
 ### 8. Kişisel Ev Bilgileri
 
-![Kişisel Ev Bilgileri](screenshots/8.jpeg)
+<img src="screenshots/8.png" width="260">
 
 ### 9. Acil Durum Modu
 
-![Acil Durum Modu](screenshots/9.jpeg)
+<img src="screenshots/9.png" width="260">
 
 ### 10. Afet Haritası
 
-![Afet Haritası](screenshots/10.jpeg)
+<img src="screenshots/10.png" width="260">
 
 ### 11. Çevrimdışı Afet Rehberi
 
+<img src="screenshots/11.png" width="260">
 ![Çevrimdışı Afet Rehberi](screenshots/11.jpeg)
 
 ---
