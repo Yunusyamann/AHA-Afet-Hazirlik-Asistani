@@ -147,47 +147,47 @@ Aşağıdaki görseller proje klasöründeki ekran görüntüleriyle değiştiri
 
 ### 1. Ana Sayfa
 
-![Ana Sayfa](screenshots/1.png)
+![Ana Sayfa](screenshots/1.jpeg)
 
 ### 2. Afet Çantası Kontrol Ekranı
 
-![Afet Çantası Kontrol Ekranı](screenshots/2.png)
+![Afet Çantası Kontrol Ekranı](screenshots/2.jpeg)
 
 ### 3. Afet Çantası Analiz Sonucu
 
-![Afet Çantası Analiz Sonucu](screenshots/3.png)
+![Afet Çantası Analiz Sonucu](screenshots/3.jpeg)
 
 ### 4. Ev İçi Deprem Hazırlık Kontrol Listesi
 
-![Ev İçi Deprem Hazırlık Kontrol Listesi](screenshots/4.png)
+![Ev İçi Deprem Hazırlık Kontrol Listesi](screenshots/4.jpeg)
 
 ### 5. Ev Hazırlık Skoru
 
-![Ev Hazırlık Skoru](screenshots/5.png)
+![Ev Hazırlık Skoru](screenshots/5.jpeg)
 
 ### 6. Duvar ve Yapı Görsel Risk Analizi
 
-![Duvar ve Yapı Görsel Risk Analizi](screenshots/6.png)
+![Duvar ve Yapı Görsel Risk Analizi](screenshots/6.jpeg)
 
 ### 7. Görsel Risk Analiz Raporu
 
-![Görsel Risk Analiz Raporu](screenshots/7.png)
+![Görsel Risk Analiz Raporu](screenshots/7.jpeg)
 
 ### 8. Kişisel Ev Bilgileri
 
-![Kişisel Ev Bilgileri](screenshots/8.png)
+![Kişisel Ev Bilgileri](screenshots/8.jpeg)
 
 ### 9. Acil Durum Modu
 
-![Acil Durum Modu](screenshots/9.png)
+![Acil Durum Modu](screenshots/9.jpeg)
 
 ### 10. Afet Haritası
 
-![Afet Haritası](screenshots/10.png)
+![Afet Haritası](screenshots/10.jpeg)
 
 ### 11. Çevrimdışı Afet Rehberi
 
-![Çevrimdışı Afet Rehberi](screenshots/11.png)
+![Çevrimdışı Afet Rehberi](screenshots/11.jpeg)
 
 ---
 
